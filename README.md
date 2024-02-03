@@ -26,7 +26,7 @@ Product Owner, Requirement gathering, scoping & end-to-end delivery and team man
 > * Oracle
 > * MongoDB  
 
-### Ent. Application
+### Programming 
 > * Java, J2EE, Servlet, JSP, JDBC, 
 > * Spring-Boot, Micro-services, Hibernate, 
 > * Web-Services, Design-patterns, 
