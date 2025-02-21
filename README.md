@@ -9,7 +9,10 @@
 
 ## 🛠 Tech Stack  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+![Microservices](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+![Spring AI](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![PySpark](https://img.shields.io/badge/PySpark-FF9900?style=for-the-badge&logo=apache-spark&logoColor=white)  
 
@@ -22,9 +25,10 @@
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srvivek1/)  
 [![Portfolio](https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://srvivek1.github.io/)  
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=srvivek1&color=blue)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srvivek1&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=srvivek1&theme=radical)
+
