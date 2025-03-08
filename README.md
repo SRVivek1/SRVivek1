@@ -1,9 +1,15 @@
 # 👋 Hi, I'm Vivek Kumar Singh!  
 
 🚀 **Senior Software Engineer | 11+ Years Experience**  
-💻 **Tech Stack:** Java | Spring Boot | Microservices | Python | PySpark  
+💻 **Tech Stack:** Java | Spring Boot | Microservices | AWS | Python | PySpark  
 📈 **Domains:** Telecom | Banking | Enterprise Solutions  
 🌍 **Website:** [srvivek1.github.io](https://srvivek1.github.io/)  
+![Profile Views](https://komarev.com/ghpvc/?username=srvivek1&color=blue)
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srvivek1/)  
+[![Portfolio](https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://srvivek1.github.io/)  
 
 ---
 
@@ -33,11 +39,5 @@
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srvivek1/)  
-[![Portfolio](https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://srvivek1.github.io/)  
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=srvivek1&color=blue)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=srvivek1&theme=radical)
 
