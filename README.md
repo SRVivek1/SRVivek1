@@ -1,31 +1,91 @@
-### Hi, I'm Vivek Kumar Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2563eb&height=140&section=header&text=Vivek%20Kumar%20Singh&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=2000&color=2563EB&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Java+%7C+Spring+Boot+%7C+AWS+Microservices;11%2B+Years+Building+Enterprise+Systems)
-
-**Senior Software Engineer** · 11+ years · Enterprise microservices on AWS
+<p align="center">
+  <strong>Senior Software Engineer</strong> · 11+ years<br/>
+  Java · Spring Boot · AWS Microservices · Enterprise Systems
+</p>
 
 ## About
 
 Senior software engineer with 11+ years designing and delivering **Java/Spring Boot microservices** on **AWS** for telecom, banking, and enterprise clients. I focus on scalable backend systems, cloud-native architecture, and pragmatic integration of **AI/data tooling** (Spring AI, PySpark) where it adds real business value.
 
+## Highlights
+
+| Architecture | Delivery | Stack |
+| --- | --- | --- |
+| Designing cloud-native microservices at scale | 11+ years across telecom, banking, enterprise | Java/Spring on AWS with data & AI integration |
+
 ## Core expertise
 
-| Backend | Cloud & DevOps | Data & AI |
-| --- | --- | --- |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-FF9900?style=flat-square&logo=apache-spark&logoColor=white) ![ML](https://img.shields.io/badge/ML-0696D7?style=flat-square&logo=tensorflow&logoColor=white) |
+### Backend
 
-**Industries:** Telecom · Banking · Enterprise solutions
+| Technology | Focus |
+| --- | --- |
+| Java | Enterprise APIs, performance, maintainability |
+| Spring Boot | REST microservices, security, integrations |
+| Spring AI | LLM-backed features in Spring applications |
+| Microservices | Event-driven design, service decomposition |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI" />
+  <img src="https://img.shields.io/badge/Microservices-005571?style=flat-square&logo=graphql&logoColor=white" alt="Microservices" />
+</p>
+
+### Cloud & DevOps
+
+| Technology | Focus |
+| --- | --- |
+| AWS | Cloud-native deployments, managed services |
+| Docker | Containerized services & local dev workflows |
+| Kubernetes | Orchestration, scaling, production ops |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
+
+### Data & AI
+
+| Technology | Focus |
+| --- | --- |
+| Python | Scripting, automation, data tooling |
+| PySpark | Large-scale data processing pipelines |
+| ML | Model integration where it drives business value |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PySpark-FF9900?style=flat-square&logo=apache-spark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/ML-0696D7?style=flat-square&logo=tensorflow&logoColor=white" alt="ML" />
+</p>
+
+**Industries:** Telecom · Banking · Enterprise Solutions
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srvivek1/)
-[![Geekmonks](https://img.shields.io/badge/Geekmonks-2563EB?style=flat-square&logo=google-chrome&logoColor=white)](https://geekmonks.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/srvivek1)
+<p align="center">
+  <a href="https://www.linkedin.com/in/srvivek1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://geekmonks.com/">
+    <img src="https://img.shields.io/badge/Geekmonks-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Geekmonks" />
+  </a>
+  <a href="https://github.com/srvivek1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ## GitHub
 
-![GitHub stats for srvivek1](https://github-readme-stats.vercel.app/api?username=srvivek1&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srvivek1&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srvivek1&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=srvivek1&color=2563EB&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srvivek1&color=2563EB&style=flat-square" alt="Profile views" />
+</p>
